@@ -60,13 +60,11 @@ int DayOff(int num)
     if (num == 1)
     {
         Console.WriteLine("Понедельник");
-        return num;
     }
 
     if (num == 2)
     {
         Console.WriteLine("Вторник");
-        return num;
     }
 
     if (num == 3)
